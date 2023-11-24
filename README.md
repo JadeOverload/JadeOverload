@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jackie
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...Html and CSS
-- 💞️ I'm just beginning this awesome adventure 
+- 🌱 Currently learning ...Html and CSS
+- 💞️ Just beginning this awesome adventure 
 
 <!---
 JadeOverload/JadeOverload is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
