@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JadeOverload
+- 👋 Hi, I’m Jackie
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...Html and CSS
 - 💞️ I'm just beginning this awesome adventure 
