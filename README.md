@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jackie
 - 👀 I’m interested in ...coding 
-- 🌱 Currently learning ...Html and CSS
+- 🌱 Currently learning ...Html, CSS, Javascript & C# 
 - 💞️ Just beginning this awesome adventure 
 
 <!---
